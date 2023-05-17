@@ -7,13 +7,6 @@ Cron2Schedule is an innovative Python utility designed to convert cron expressio
 * Intuitive Interface: Cron2Schedule provides an easy-to-use interface to add tasks to your schedule.
 * Range Mapping: It supports a range mapping feature that provides an extensive representation of cron field values.
 
-## Installation
-
-Before installing Cron2Schedule, make sure you have Python 3.7 or later installed on your system. You can install the Cron2Schedule utility using pip. Run the following command in your terminal:
-
-```
-pip install cron2schedule
-```
 
 ## Usage
 
